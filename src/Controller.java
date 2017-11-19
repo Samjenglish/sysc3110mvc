@@ -34,7 +34,20 @@ public class Controller implements ActionListener{
 		}
 	}
 	
-	
+	/*
+	 * 
+	 * 
+	 * aButton.addActionListener(new java.awt.event.ActionListener()
+    {
+        public void actionPerformed(ActionEvent ae)
+        {
+            myMethod();
+        }
+    });
+	 * 
+	 * 
+	 * 
+	 */
 	
 	
 }
